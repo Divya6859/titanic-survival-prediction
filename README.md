@@ -36,4 +36,4 @@ This project demonstrates a complete machine learning workflow on the Titanic da
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Divya6859/titanic-survival-prediction>
