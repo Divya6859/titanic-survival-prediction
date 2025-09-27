@@ -36,4 +36,20 @@ This project demonstrates a complete machine learning workflow on the Titanic da
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Divya6859/titanic-survival-prediction>
+   git clone https://github.com/Divya6859/titanic-survival-prediction.git
+   cd titanic-survival-prediction
+   
+   pip install -r requirements.txt
+
+   python scripts/titanic_model.py
+
+   ##  Explore the data
+   Open the included notebook to analyze and visualize the data:  
+  `notebooks/titanic_model.ipynb` 
+
+
+
+
+
+
+   
