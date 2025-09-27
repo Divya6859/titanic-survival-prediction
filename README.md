@@ -45,7 +45,7 @@ This project demonstrates a complete machine learning workflow on the Titanic da
 
    ##  Explore the data
    Open the included notebook to analyze and visualize the data:  
-  `notebooks/titanic_model.ipynb` 
+    `notebooks/titanic_model.ipynb` 
 
 
 
