@@ -33,19 +33,14 @@ This project demonstrates a complete machine learning workflow on the Titanic da
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Divya6859/titanic-survival-prediction.git
-   cd titanic-survival-prediction
-   
-   pip install -r requirements.txt
+## How to Run Projects
 
-   python scripts/titanic_model.py
+All projects are developed in **Google Colab** and can be run online easily.
 
-   ##  Explore the data
-   Open the included notebook to analyze and visualize the data:  
-    `notebooks/titanic_model.ipynb` 
+1. Clone this repository:  
+```bash
+git clone https://github.com/Divya6859/titanic-survival-prediction.git
+```
 
 
 
